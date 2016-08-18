@@ -9,13 +9,13 @@
         <item>Friday</item>
         <item>Saturday</item>
     </string-array>
-    <string-array name="description">
-        <item>Today is Sunday</item>
-        <item>Today is Monday</item>
-        <item>Today is Tuesday</item>
-        <item>Today is Wednesday</item>
-        <item>Today is Thirsday</item>
-        <item>Today is Friday</item>
-        <item>Today is Saturday</item>
+    <string-array name="descriptions">
+        <item>--- Ford --- </item>
+        <item>--- Honda ---</item>
+        <item>--- Jeep ---</item>
+        <item>--- Moon Lander ---</item>
+        <item>--- Porche ---</item>
+        <item>--- Rust Bucket ---</item>
+        <item>--- Toyoto ---</item>
     </string-array>
 </resources>
